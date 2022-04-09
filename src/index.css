@@ -1,0 +1,21 @@
+.submit{
+    color:white;
+    background-color: black;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+#Removebtn{
+    background-color: teal;
+}
+table{
+    margin-top: 5%;
+    margin-left: 25%;
+}
+th,td,tr{
+    border:1px solid black;
+    text-align: center;
+}
+form{
+    width:50%;
+    margin: auto;
+}
